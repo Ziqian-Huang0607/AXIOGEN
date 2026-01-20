@@ -1,0 +1,11 @@
+<world width="800" height="600">
+    <physics friction="0.98" />
+    <entities>
+        <food x="100" y="100" energy="50" />
+        <food x="700" y="500" energy="50" />
+        <food x="400" y="100" energy="50" />
+        
+        <obstacle x="300" y="200" radius="40" />
+        <obstacle x="500" y="400" radius="40" />
+    </entities>
+</world>
